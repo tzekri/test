@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "vue": "latest",
+    "vue-material": "latest"
+  },
+  "keywords": [
+    "vue-material",
+    "material-design",
+    "vue"
+  ],
+  "name": "Vue Material - Basic Table"
+}
